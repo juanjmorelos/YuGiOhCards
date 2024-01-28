@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Yu-Gi-Oh Cards</string>
+    <string name="toolbar_cards_title">Cards</string>
+    <string name="menu_filter_text">Filter</string>
+    <string name="text_search_filter">Filter archetype</string>
+    <string name="text_loading_cards">Loading cards...</string>
+    <string name="text_loading_archetypes">Loading archetypes...</string>
+    <string name="alert_search_button_text">Clean filter</string>
+    <string name="timeout_text_message">Timeout expired. Please check your network connection or try again later</string>
+    <string name="text_more_info">More info</string>
+    <string name="image_text_content_description">Go back</string>
+    <string name="offline_text_message">At the moment, it seems like you don\'t have an internet connection. Please connect to a network and try again</string>
+</resources>
